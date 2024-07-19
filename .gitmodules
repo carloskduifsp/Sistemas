@@ -1,0 +1,3 @@
+[submodule "api-admin"]
+	path = api-admin
+	url = git@github.com:carloskduifsp/api-admin.git
